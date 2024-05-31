@@ -43,6 +43,7 @@ ament_target_dependencies(pick_and_place
 	moveit_ros_planning
 	control_msgs)
 
+
 # Install the executable
 install(TARGETS
 	pick_and_place
